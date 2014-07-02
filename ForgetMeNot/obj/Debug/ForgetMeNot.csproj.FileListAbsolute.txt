@@ -1,0 +1,9 @@
+C:\Users\Streak\Desktop\VSProjects\ForgetMeNot\ForgetMeNot\bin\Debug\ForgetMeNot.exe.config
+C:\Users\Streak\Desktop\VSProjects\ForgetMeNot\ForgetMeNot\bin\Debug\ForgetMeNot.exe
+C:\Users\Streak\Desktop\VSProjects\ForgetMeNot\ForgetMeNot\bin\Debug\ForgetMeNot.pdb
+C:\Users\Streak\Desktop\VSProjects\ForgetMeNot\ForgetMeNot\obj\Debug\ForgetMeNot.Form1.resources
+C:\Users\Streak\Desktop\VSProjects\ForgetMeNot\ForgetMeNot\obj\Debug\ForgetMeNot.Properties.Resources.resources
+C:\Users\Streak\Desktop\VSProjects\ForgetMeNot\ForgetMeNot\obj\Debug\ForgetMeNot.csproj.GenerateResource.Cache
+C:\Users\Streak\Desktop\VSProjects\ForgetMeNot\ForgetMeNot\obj\Debug\ForgetMeNot.exe
+C:\Users\Streak\Desktop\VSProjects\ForgetMeNot\ForgetMeNot\obj\Debug\ForgetMeNot.pdb
+C:\Users\Streak\Desktop\VSProjects\ForgetMeNot\ForgetMeNot\obj\Debug\ForgetMeNot.csprojResolveAssemblyReference.cache
